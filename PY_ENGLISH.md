@@ -1,5 +1,7 @@
 ### **Python Beginner's Course - Complete Handbook**
 
+## https://zygnalbot.info/Python_Guide.html
+
 #### **Table of Contents**
 
 1. Introduction to Python
